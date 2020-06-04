@@ -2,7 +2,7 @@ Setup and Installation
 
 Hardware
 • The hardware architecture should follow the diagram displayed in hardware architecture and
-design section. The LED and the button should be connected to the relevant pins. If different
+design section provided in the project artifact. The LED and the button should be connected to the relevant pins. If different
 pins are used, the program should be modified to incorporate the relevant pins.
 • Proper grounding and resistors should be used to ensure the safety of the equipment used.
 • Raspberry Pi should be setup with a working Python installation. The Pi should either be
